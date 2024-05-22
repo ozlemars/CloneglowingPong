@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d4e34d129e6ef53419db823120bbde77
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hitSFX: {fileID: 5620256557428988911, guid: 1c1b6ae1997908b4d837fc9ad69581b8, type: 3}
+  - ballMove: {instanceID: 0}
+  - scoreManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
